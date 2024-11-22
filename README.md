@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melinajkl
-- 👀 I’m interested in learning about c++, c# and building apps that works on computers cross-platform
+- 👀 I’m interested in learning about c++, c# and building apps that work on computers cross-platform
 - 🌱 I’m currently learning how to address and handle hardware components.
 - 💞️ I’m looking to collaborate on whatever.
 - 📫 How to reach me: Instagram -> melinajklein
