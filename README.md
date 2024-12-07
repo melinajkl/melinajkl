@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on whatever.
 - 📫 How to reach me: Instagram -> melinajklein
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I studied teaching for one whole year until I realised I want to create new knowledge.
+- ⚡ Fun fact: I have learnt to walk twice.
 
 <!---
 melinajkl/melinajkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
